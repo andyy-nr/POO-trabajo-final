@@ -12,7 +12,6 @@ public class Lista {
 
 	private String nombre;
 	private ArrayList <Tarea> tareas;
-	private String fecha;
 	public Tarea m_Tarea;
 
 	public Lista(){
