@@ -9,11 +9,6 @@ package modelos;
 public class Registro {
 
 	private Usuario usuario;
-	private String nombre;
-	private String apellidos;
-	private String contrasenia;
-	private String correo;
-	private int edad;
 
 	public Registro(){
 

@@ -12,6 +12,9 @@ public class Usuario {
 	private int id;
 	private int estado;
 	private String nombre;
+        private String apellidos;
+        private String correo;
+        private String nomUsuario;
 	private String contrasena;
 	public Registro m_Registro;
 	public InicioSesion m_InicioSesion;
